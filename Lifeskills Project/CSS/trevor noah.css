@@ -1,0 +1,53 @@
+
+
+body{
+	background-color: white;
+	font-color: white;
+	font-size: 18px;
+	width: 1200px;
+
+}
+
+.main-container{
+	background-color: green;
+	padding: 20px;
+	width: 1150px;
+	border-width: 5px;
+	margin: 0 auto;
+	font-size: 20px;
+
+}
+
+.myheading h1{
+	text-align: center;
+	font-family: times new roman;
+	width: 800;
+	border-width: 5px;
+	margin: auto 0;
+	padding: 10px;
+	background-color: green;
+	color: white;
+}
+
+.myimage{
+	width: 800;
+	margin: 0 auto;
+	padding-left: : 70px;
+	border-width: 10px;
+	background-color: white;
+	position: center;
+}
+
+.main-container h2{
+	font-size: 25px;
+	text-align: left;
+	color: white;
+}
+
+
+.assignment{
+	font-style: italic;
+	background-color: white;
+	
+}
+
