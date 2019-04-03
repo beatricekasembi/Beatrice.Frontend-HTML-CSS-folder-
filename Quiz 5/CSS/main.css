@@ -1,0 +1,12 @@
+
+body{
+	background-color: lightblue;
+	background-image: url(../img/flying.png), url(../img/aspha.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+
+	
+
+}
