@@ -1,12 +1,24 @@
 
 body{
-	background-color: lightblue;
-	background-image: url(../img/flying.png), url(../img/aspha.jpg);
+	background-color: #ccc;
+	background-image: url(../img/Parakeet.gif),url(../img/Bird2.png),url(../img/Nature.png), url(../img/West.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-size: cover;
-	background-position: center;
+	background-size:50% ,40%,20%,cover;
+	background-position: 90% 10%,right 15%,5% 5%,center;
+}
 
-	
+.Betty{
+	background-color: rgba(0,0,0,0.6);
+	width: 600px;
+	padding: 30px;
+	margin: 0 auto;
+	color: #fff;
+	min-height: 500px;
+	font-size: 18px;
+}
 
+.Betty h1{
+	text-decoration: underline;
+	text-align: center;
 }
