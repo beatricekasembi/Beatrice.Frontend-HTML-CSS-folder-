@@ -1,0 +1,27 @@
+body{
+	background-color: #ccc;
+	font-family: arial;
+}
+
+.container1{
+	width: 500px;
+	margin: 0 auto;
+	min-height: 500px;
+	
+}
+
+.container2{
+	width: 500px;
+	margin: 0 auto;
+	min-height: 500px;
+	
+}
+
+
+.map{
+	width: 600px;
+	margin: 0 auto;
+	min-height: 500px;
+}
+
+
