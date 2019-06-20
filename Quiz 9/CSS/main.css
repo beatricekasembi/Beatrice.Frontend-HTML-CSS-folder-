@@ -1,0 +1,34 @@
+
+body{
+	background-color: grey;
+
+}
+
+
+.paragraph{
+	width: 800px;
+	height: 600px;
+	margin: 0 auto;
+	background-color: white;
+	padding: 20px;
+
+}
+
+.paragraph h1{
+
+	font-size: 30px;
+	font-family: 'Quicksand', sans-serif;
+;
+
+}
+
+.paragraph p{
+
+	font-size: 20px;
+	line-height: 1.5em;
+	font-family: 'Josefin Sans', sans-serif
+}
+
+.span{
+	
+}

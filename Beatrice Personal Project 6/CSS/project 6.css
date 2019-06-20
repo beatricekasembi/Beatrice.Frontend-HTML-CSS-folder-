@@ -1,0 +1,326 @@
+body{
+	background color: #fff;
+}
+
+header{
+	width: 100%;
+	height: 100px;
+	background-color: black;
+	padding-top: 12px;
+	padding-left: 30px;
+}
+
+.container{
+	width: 100%;
+	height: 30px;
+	margin: 0 auto;
+	background-color: #F24F0F;
+	padding: 10px;	
+}
+
+.logo{
+
+	width: 400px;
+	height: 50px;
+	background-color: white;
+
+	float: left;
+}
+
+/* Style the tab */
+.tab {
+  float: left;
+  border: 1px solid #000;
+  background-color: #000;
+  width: 30%;
+  height: 20px;
+  margin-left:45%;
+  margin-top: -130px;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  display: block;
+  background-color: #000;
+  color: #fff;
+  padding: 22px 16px;
+  width: 100%;
+  border: none;
+  outline: none;
+  text-align: center;
+  cursor: pointer;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #2D5EA5;
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+/*.tabcontent {
+  float: left;
+  padding: 0px 12px;
+  border: 1px solid #ccc;
+  width: 70%;
+  border-left: none;
+  height: 300px;
+  display: none;
+}*/
+
+.login input{
+  position: absolute;
+  margin-left:27%;
+  margin-top: -69px;
+}
+
+.login form ul li{
+	padding: 0px;
+	margin: 0px 0 10px 0;
+	list-style: none;
+}
+
+.login form ul label{
+	display:block;
+	padding-bottom: 10px;
+	font-size: 18px;
+	color: black;
+	font-weight: bold;
+	margin-left: 130px;
+	border: none;	
+	background-color: black;
+}
+
+/*Empty div to create menu icon*/
+
+/*div {
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}
+*/
+
+
+.container h3{
+
+	font-family: 'Muli', sans-serif;
+	font-size: 14px;
+	color: white;
+	margin-left: 420px;
+	float: left;
+}
+
+.container .h3 a{
+
+	font-family: 'Muli', sans-serif;
+	font-size: 14px;
+	color: white;
+	margin-left: 500px;
+	float: left;
+}
+
+/*.container {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.bar1, .bar2, .bar3 {
+  width: 35px;
+  height: 5px;
+  background-color: #333;
+  margin: 6px 0;
+  margin-left:45%;
+  margin-top: -130px;
+}
+*/
+
+/*
+.dropbtn {
+  background-color: #000;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  float: left;
+  margin-top: 32px;
+  margin-left: 50px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  min-width: 160px;
+  box-shadow: 0px 8px 8px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: /*#ddd*//*;}*/
+
+/*.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #000;}
+
+.login{
+	float: right;	
+}
+
+.login form ul li{
+	padding: 0px;
+	margin: 0px 0 10px 0;
+	list-style: none;
+}
+
+.login form ul label{
+	display:block;
+	padding-bottom: 10px;
+	font-size: 18px;
+	color: black;
+	font-weight: bold;
+	margin-left: 130px;
+	border: none;	
+}
+
+.image-links{
+	width: 1300px;
+	height: 1000px;
+	margin: 0 auto;
+	background-color: white;
+
+}
+
+.panel{
+	float: left;
+	padding: 20px;
+	margin-left: 17px;
+	box-shadow: 0px 8px 8px 0px rgba(0,0,0,0.2);
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+}
+
+.panel h3{
+	padding-top: 70px;
+}
+
+.one{
+	width: 200px;
+	height: 400px;
+}
+
+.two{
+	width: 200px;
+	height: 400px;
+}
+
+.three{
+	width: 200px;
+	height: 400px;
+}
+
+.four{
+	width: 200px;
+	height: 400px;
+}
+
+.five{
+	width: 200px;
+	height: 400px;
+}
+
+.six{
+	width: 200px;
+	height: 400px;
+}
+
+.seven{
+	width: 200px;
+	height: 400px;
+}
+
+.eight{
+	width: 200px;
+	height: 400px;
+}
+
+.nine{
+	width: 200px;
+	height: 400px;
+}
+
+.ten{
+	width: 200px;
+	height: 400px;
+}
+
+.footer{
+	margin-left: 270px; 
+	background-color: transparent;
+	padding-top: 150px;
+}
+
+.foot{
+	margin-top: 100px;
+	float: left;
+}
+
+.panel{
+	width: 200;
+	float: right;
+	margin-top: 30px;	
+}
+
+.icons{
+	width: 600px;
+	height: 200px;
+	margin: 0 auto;
+	margin-top: 500px;
+	margin-left: 400px;
+	padding: 10px;
+	font-size: 30px;
+}
+
+.icons i{
+		padding: 10px;
+		margin-top: 150px;
+		margin-left: 50px;
+		color: blue;
+}
+
+ul li{
+	list-style: none;
+}
+
+ul li a{
+	text-decoration: none;
+	line-height: 1.0em;	
+	font-size: 18px;
+	color: black;
+	margin-left: 500px;
+	margin-top: 200px;
+}
+
+
+
+
+
+*/

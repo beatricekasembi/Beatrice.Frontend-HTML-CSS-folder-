@@ -1,0 +1,441 @@
+body{
+	background-color: #E5DFDF;
+	background-image: url(../img/red.png);
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: 1400px 600px;
+	background-attachment: scroll;
+
+}
+
+.container1{
+	float: right;
+
+}
+
+.container1{
+	height: 90px;
+	background-color: #fff;
+	width: 100%;
+
+}
+
+.container2{
+	float: left;
+	padding: 5px;
+	margin-left: 40px;
+}
+
+.container3{
+	float: right;
+	margin-right: 70px;
+}
+
+/* Dropdown Button */
+.dropbtn {
+  color: black;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #ddd;}
+
+
+.blog{
+  color: black;
+  padding: 9px;
+  font-size: 18px;
+  border: none; 
+  display: inline-block;
+  margin-top: 30px;
+  
+}
+
+.blog a{
+	color: #000;
+	text-decoration: none;
+	padding: 9px;
+}
+
+.blog:hover {background-color: #ddd;}
+
+.request{
+  color: black;
+  padding: 9px;
+  font-size: 18px;
+  border: none; 
+  display: inline-block;
+  margin-top: 30px;
+  
+}
+
+.request a{
+	color: #000;
+	text-decoration: none;
+	padding: 9px;
+}
+
+.request:hover {
+	background-color: red;
+	border-radius: 10px;
+	border: 0.5px solid red;
+}
+
+.text{
+	width: 800px;
+	min-height: 90px;
+	margin: 0 auto;
+	color: white;
+	background-color: rgba(0,0,0,0.2);
+	margin-top: 120px;
+
+}
+
+.text h1{
+	font-weight: bold;
+	font-family: verdana;
+	text-align: center;
+}
+
+.text p{
+	font-size: 17px;
+	font-family: verdana;
+	text-align: center;
+	line-height: 1.5em;
+}
+
+.container4{
+	margin-left: 380px;
+	margin-top: 200px;
+}
+
+
+.foot{
+  color: black;
+  padding: 9px;
+  font-size: 18px;
+  border: none; 
+  display: inline-block;
+  margin-top: 30px;
+  border: 2px solid #000;
+
+}
+
+.foot a{
+	color: #fff;
+	text-decoration: none;
+	padding: 9px;
+	font-family: verdana;
+}
+
+.foot:hover {
+	background-color: #C695BC;
+	border-radius: 10px;
+	border: 1px solid #C695BC;
+}
+
+.container5{
+	width: 1200px;
+	min-height: 600px;
+	margin: 0 auto;
+	background-color: #fff;
+	margin-top: 50px;
+}
+
+.container5{
+		
+}
+
+.panel{
+	float: left;
+}
+
+.image1{
+	width: 800px;
+	height: 400px;
+	background-color: black;
+}
+
+.image2{
+	width: 400px;
+	height: 400px;
+	background-color: red;
+}
+
+.image3{
+	width: 400px;
+	height: 400px;
+	background-color: orange;
+}
+
+.image4{
+	width: 400px;
+	height: 400px;
+	background-color: blue;
+}
+
+.image5{
+	width: 400px;
+	height: 400px;
+	background-color: grey;
+}
+
+.container6{
+	background-color: #fff;
+	width: 1200px;
+	min-height: 250px;
+	margin: 0 auto;
+	overflow: auto;
+	margin-top: 80px;
+
+}
+
+.container6 p{
+	font-family: Calisto MT;
+	font-weight: bold;
+	text-decoration: italic;
+	text-align: center;
+	line-height: 1.5em;
+	padding: 70px;
+	font-size: 18px;
+}
+
+.container7{
+	width: 1200px;
+	min-height: 340px;
+	margin: 0 auto;
+	background-color: black;
+	padding-top: 20px;
+	padding-top: 30px;
+
+
+}
+
+.panel2{
+	float: left;
+	margin: 0 auto;
+	padding: 5px;
+}
+
+.image8{
+	width: 390px;
+	min-height: 300px;
+	margin: 0 auto;
+	background-color: white;
+	}
+
+.image9{
+	width: 390px;
+	min-height: 300px;
+	margin: 0 auto;
+	background-color: yellow;
+}
+
+.image10{
+	width: 390px;
+	min-height: 300px;
+	margin: 0 auto;
+	background-color: white;
+}
+
+.container7 h2{
+	text-align: center;
+	font-family: verdana;
+	font-size: 18px;
+
+}
+
+.container7 p{
+	font-size: 18px;
+	text-align: center;
+	line-height: 1.5em;
+	padding: 10px;
+	color: #000;
+
+}
+
+.panel2:hover{
+	background-color: #E22081;
+}
+
+.container11{
+	background-color: black;
+	width: 1200px;
+	min-height: 500px;
+	margin: 0 auto;
+	/*margin-bottom: 60px;*/
+}
+
+.login-cont form ul{
+	padding:0px;
+	margin:0px;
+	
+	
+}
+
+.login-cont form ul li{
+	padding:0px;
+	margin:0px 0 10px 0;
+	list-style: none;
+}
+
+.login-cont form ul li:last-child{
+	margin: 0px;}
+
+
+.login-cont form label{
+	display:block;
+	padding-bottom: 5px;
+	font-size: 18px;
+	color: white;
+}
+
+.login-cont form input+label{
+	display: inline;
+	padding: 5px;
+
+}
+
+.login-cont form input[type=text],.login-cont form input[type=email],.login-cont form input[type=password]{
+	display:block;
+	width:328px;
+	border: 1px solid #ccc;
+	height:35px;
+	text-indent: 10px;
+	border-radius: 5px;
+}
+
+.login-cont form input[type=submit]{
+	width:330px;
+	background-color: #fff;
+	color:#000;
+	height:40px;
+	border:none;
+	border-radius: 5px;
+}
+
+.login-cont form input[type=submit]:hover{
+	background-color: #CC117C;
+}
+
+.footer1{
+	width: 500px;
+	min-height: 300px;
+	float: left;
+	margin-top: 60px;
+	margin-left: 60px;
+}
+
+.footer1 h3{
+	color: white;
+	font-family: verdana;
+	text-align: center;
+	font-size: 20px;
+}
+
+.footer1 p{
+	color: white;
+	text-align: center;
+	font-size: 18px;
+	line-height: 1.5em;
+}
+
+.login-cont{
+
+	float: right;
+	margin-right: 60px;
+}
+
+.container12{
+	background-color: white;
+	width: 1400px;
+	min-height: 400px;
+	margin: 0 auto;
+}
+
+.paragraph{
+	width: 500px;
+	min-height: 300px;
+	margin: 0 auto;
+	padding: 20px;
+	float: left;
+	margin-left: 150px;
+	background-color: pink;
+	margin-top: 30px;
+	border-radius: 1px solid pink;
+}
+
+.paragraph:hover{
+	background-color: #CC117C;
+}
+
+.paragraph h3{
+	text-align: center;
+	font-weight: bold;
+}
+
+.paragraph p{
+	font-size: 18px;
+	line-height: 1.5em;
+}
+
+.bottom{
+	width: 500px;
+	min-height: 300px;
+	margin: 0 auto;
+	padding-top: 80px;
+	margin-right: 80px;
+	float: right;
+}
+
+.bottom p{
+	font-weight: bold;
+}
+
+p{
+	font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

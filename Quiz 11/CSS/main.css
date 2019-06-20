@@ -1,0 +1,799 @@
+body{
+	background-color: white;
+	background-image: url(../img/img.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: 1400px 700px;
+	background-attachment: scroll;
+		
+}
+
+.background-text{
+	padding-top: 300px;
+	padding-left: 280px;
+}
+
+.background-text2{
+	width: 150px;
+	height: 50px;
+	/*background-color: white;*/
+	margin-left: 600px;
+	margin-top: 50px;
+	border: 2px solid white;
+}
+
+.background-text2 h2{
+	color: white;
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 5px;
+	padding-left: 20px;
+
+}
+
+.links-tab{
+	width: 100%;
+	height: 50px;
+	background-color: #282222;
+	margin-top: 214px;
+}
+
+.links-tab img{
+	margin-left: 195px;
+	margin-top: 12px;
+}
+
+.links-tab .links{
+	float: right;
+	padding-top: 20px;
+	margin-right: 180px;
+}
+
+.links-tab .links a{
+	text-decoration: none;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	padding-left: 35px;
+
+}
+
+.links-tab .links a ABOUT ME{
+	color: green;
+}
+
+.text{
+	width: 1000px;
+	height: 200px;
+	margin: 0 auto;
+	background-color: black;
+	margin-top: 70px;
+}
+
+/*.text .panel{
+	float: left;
+}*/
+
+.text .txt1{
+	width: 325px;
+	height: 200px;
+	background-color: white;
+	padding: 21px;
+	float: left;
+}
+
+.text .txt2{
+	width: 325px;
+	height: 200px;
+	background-color: white;
+	padding: 21px;
+	float: left;
+}
+
+.text .txt3{
+	width: 225px;
+	height: 200px;
+	background-color: white;
+	padding: 20.5px;
+	float: left;
+}
+
+.my-image{
+	width: 100%;
+	height: 520px;
+	background-color: #F2F2F2;
+	margin-top: 50px;
+}
+
+.my-image .image{
+	width: 450px;
+	height: 520px;
+	background-color: black;
+	float: left;
+}
+
+.my-image .about-me{
+	width: 650px;
+	height: 450px;
+	margin-left: 80px;
+	float: left;
+
+}
+
+.my-image .about-me h2{
+	padding-top: 40px;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+.my-image .about-me p{
+	font-family: 'Roboto', sans-serif;
+	text-height: 2.0em;
+}
+
+
+.icon1{
+	font-size: 30px;
+	color: green;
+	margin-top: 40px;
+}
+
+.icon2{
+	position: relative;
+	margin-top: -12px;
+	/*margin-left: 50px;*/
+}
+
+.icon2 h2{
+	font-size: 20px;
+
+}
+
+.icon3{
+	font-size: 30px;
+	color: green;
+	margin-top: 40px;
+}
+
+.icon4{
+	position: relative;
+	margin-top: -12px;
+	/*margin-left: 50px;*/
+}
+
+.icon4 h2{
+	font-size: 20px;
+
+}
+
+
+
+
+.icon5{
+	font-size: 30px;
+	color: green;
+	position: absolute;
+	margin-top: 180px;
+}
+
+.icon6{
+	position: relative;
+	margin-top: -30px;
+	margin-left: 45px;
+}
+
+.icon6 h2{
+	font-size: 20px;
+
+}
+
+.icon7{
+	font-size: 30px;
+	color: green;
+	margin-top: 30px;
+	margin-left: 10px;
+}
+
+.icon8{
+	position: relative;
+	margin-top: -25px;
+	/*margin-left: 50px;*/
+}
+
+.icon8 h2{
+	font-size: 20px;
+
+}
+
+/*.icon5{
+	font-size: 30px;
+	color: green;
+	margin-top: 30px;
+	position: relative;
+	margin-top: 300px;
+	margin-left: 40px;
+}
+
+.icon6{
+	position: relative;
+	margin-top: -40px;
+	margin-left: 45px;
+	
+}
+
+.icon6 h2{
+	font-size: 20px;
+
+}
+
+.icon7{
+	font-size: 30px;
+	color: green;
+	margin-top: 30px;
+	position: relative;
+	margin-left: 350px;
+}
+
+.icon8{
+	position: relative;
+	margin-top: -190px;
+	margin-left: 340px;
+}
+
+.icon8 h2{
+	font-size: 20px;
+
+}*/
+
+.my-skills{
+	width: 1000px;
+	height: 400px;
+	margin: 0 auto;
+	margin-top: 80px;
+	padding: 20px;
+}
+
+.skills-text{
+	width: 475px;
+	height: 390px;
+	float: left;
+	margin-right: 50px;
+
+}
+
+.skills-graph{
+	width: 475px;
+	height: 390px;
+	float: left;
+
+}
+
+.skills-text h2{
+	font-family: 'Roboto', sans-serif;
+}
+
+.skills-text p{
+	font-family: 'Roboto', sans-serif;
+	line-height: 1.5em;
+}
+
+.skills-text h3{
+	font-family: 'Roboto', sans-serif;
+	padding-top: 10px;
+	width: 150px;
+	height: 30px;
+	border: 2px solid green;
+	padding-left: 20px;
+	color: green;
+}
+
+.skills-graph h2{
+		font-family: 'Roboto', sans-serif;
+		font-size: 20px;
+}
+
+.one {
+	width: 475px;
+	height: 20px;
+	background-color: #F2F2F2;
+}
+
+.two{
+	width: 400px;
+	height: 20px;
+	background-color: green;
+	margin-bottom: 10px;
+}
+
+.two h3{
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	margin-left: 370px;
+	padding-top: 3px;
+}
+
+.three {
+	width: 475px;
+	height: 20px;
+	background-color: #F2F2F2;
+}
+
+.four{
+	width: 370px;
+	height: 20px;
+	background-color: green;
+}
+
+.four h3{
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	margin-left: 340px;
+	padding-top: 3px;
+}
+
+.five {
+	width: 475px;
+	height: 20px;
+	background-color: #F2F2F2;
+}
+
+.six{
+	width: 400px;
+	height: 20px;
+	background-color: green;
+}
+
+.six h3{
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	margin-left: 370px;
+	padding-top: 3px;
+}
+
+.seven {
+	width: 475px;
+	height: 20px;
+	background-color: #F2F2F2;
+}
+
+.eight{
+	width: 350px;
+	height: 20px;
+	background-color: green;
+}
+
+.eight h3{
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	margin-left: 320px;
+	padding-top: 3px;
+	line-height: 1.0em;
+}
+
+.resume{
+	width: 100%;
+	height: 280px;
+	margin: 0 auto;
+	background-color: #F2F2F2;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.resume p{
+	line-height: 1.5em;
+}
+
+.resume h3{
+	width: 200px;
+	height: 30px;
+	border: 2px solid green;
+	color: green;
+	padding-top: 7px;
+	margin-left: 580px;
+	margin-top: 50px;
+}
+
+.line{
+	width: 1000px;
+	height: 5px;
+	margin: 0 auto;
+}
+
+.my-education{
+	width: 1000px;
+	height: 700px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+.education1{
+	width: 475px;
+	height: 500px;
+	float: left;
+	margin-right: 50px;
+}
+
+.education2{
+	width: 475px;
+	height: 600px;
+	float: left;
+	margin-top: 58px;
+}
+
+.education1{
+	font-family: 'Roboto', sans-serif;
+}
+
+.education1 p{
+	line-height: 1.5em;
+}
+
+.education2 .p1{
+	line-height: 0.5em;
+	font-family: 'Roboto', sans-serif;
+}
+
+.education2 .p1 h4{
+	margin-bottom: 40px;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 10px;
+	width: 60px;
+	height: 20px;
+	border: 2px solid green;
+	padding-left: 5px;
+	color: white;
+	background-color: green;
+}
+
+.education2 .p1 p{
+	font-family:  'Roboto', sans-serif;
+	line-height: 1.5em; 
+
+}
+
+.p2{
+	margin-top: 80px;
+}
+
+.education2 .p2{
+	line-height: 0.5em;
+	font-family: 'Roboto', sans-serif;
+}
+
+.education2 .p2 h4{
+	margin-bottom: 40px;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 10px;
+	width: 60px;
+	height: 20px;
+	border: 2px solid green;
+	padding-left: 5px;
+	color: white;
+	background-color: green;
+}
+
+.education2 .p2 p{
+	font-family:  'Roboto', sans-serif;
+	line-height: 1.5em; 
+
+}
+
+
+.my-education1{
+	width: 1000px;
+	height: 970px;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+
+.education3{
+	width: 475px;
+	height: 500px;
+	float: left;
+	margin-right: 50px;
+}
+
+.education4{
+	width: 475px;
+	height: 600px;
+	float: left;
+	margin-top: 58px;
+}
+
+.education3{
+	font-family: 'Roboto', sans-serif;
+}
+
+.education3 p{
+	line-height: 1.5em;
+}
+
+.education4 .p3{
+	line-height: 0.5em;
+	font-family: 'Roboto', sans-serif;
+}
+
+.education4 .p3 h4{
+	margin-bottom: 40px;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 10px;
+	width: 60px;
+	height: 20px;
+	border: 2px solid green;
+	padding-left: 5px;
+	color: white;
+	background-color: green;
+}
+
+.education4 .p3 p{
+	font-family:  'Roboto', sans-serif;
+	line-height: 1.5em; 
+
+}
+
+.p4{
+	margin-top: 50px;
+}
+
+.education4 .p4{
+	line-height: 0.5em;
+	font-family: 'Roboto', sans-serif;
+}
+
+.education4 .p4 h4{
+	margin-bottom: 40px;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 10px;
+	width: 60px;
+	height: 20px;
+	border: 2px solid green;
+	padding-left: 5px;
+	color: white;
+	background-color: green;
+}
+
+.education4 .p4 p{
+	font-family:  'Roboto', sans-serif;
+	line-height: 1.5em; 
+
+}
+
+.p5{
+	margin-top: 50px;
+}
+
+.education4 .p5{
+	line-height: 0.5em;
+	font-family: 'Roboto', sans-serif;
+}
+
+.education4 .p5 h4{
+	margin-bottom: 40px;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 10px;
+	width: 60px;
+	height: 20px;
+	border: 2px solid green;
+	padding-left: 5px;
+	color: white;
+	background-color: green;
+}
+
+.education4 .p5 p{
+	font-family:  'Roboto', sans-serif;
+	line-height: 1.5em; 
+
+}
+
+.intro{
+	width: 100%;
+	height: 300px;
+	background-color: #F2F2F2;
+}
+
+.intro .intro1{
+	width: 1000px;
+	height: 300px;
+	margin: 0 auto;
+}
+
+.intro1{
+	padding-top: 30px;
+}
+
+.intro .intro1 p{
+	font-style: italic;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	line-height: 1.5em;
+}
+
+.intro .intro1 h3{
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	padding-top: 30px;
+}
+
+.intro .intro1 img{
+	margin-left: 470px;
+}
+
+.portfolio{
+	width: 1000px;
+	height: 1240px;
+	margin: 0 auto;
+	/*background-color: black;*/
+}
+
+.words{
+	width: 900px;
+	height: 150px;
+	margin: 0 auto;
+	/*background-color: yellow;*/
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.words{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 10px;
+	line-height: 1.5em;
+}
+
+.my-images{
+	width: 1000px;
+	height: 960px;
+	/*background-color: grey;*/
+}
+
+.panel{
+	float: left;
+	padding: 10px;
+}
+.img1{
+	width: 300px;
+	height: 300px;
+	/*background-color: yellow;*/
+	margin-right: 20px;
+}
+
+.img2{
+	width: 300px;
+	height: 300px;
+	/*background-color: white;*/
+	margin-right: 20px;
+}
+
+.img3{
+	width: 300px;
+	height: 300px;
+	/*background-color: orange;*/
+}
+
+.img4{
+	width: 300px;
+	height: 300px;
+	/*background-color: blue;*/
+	margin-right: 20px;
+}
+
+.img5{
+	width: 300px;
+	height: 300px;
+/*	background-color: green;*/
+	margin-right: 20px;
+}
+
+.img6{
+	width: 300px;
+	height: 300px;
+	/*background-color: white;*/
+}
+
+.img7{
+	width: 300px;
+	height: 300px;
+	/*background-color: yellow;*/
+	margin-right: 20px;
+}
+
+.img8{
+	width: 300px;
+	height: 300px;
+	/*background-color: white;*/
+	margin-right: 20px;
+}
+
+.img9{
+	width: 300px;
+	height: 300px;
+	/*background-color: orange;*/
+}
+
+.bottom{
+	width: 100%;
+	height: 570px;
+	background-color: #232323;
+}
+
+.bottom0{
+	width: 1000px;
+	height: 500px;
+	/*background-color: grey;*/
+	margin: 0 auto;
+}
+
+.bottom1{
+	width: 480px;
+	height: 500px;
+	/*background-color: yellow;*/
+	float: left;
+	margin-right: 40px;
+}
+
+.bottom2{
+	width: 480px;
+	height: 450px;
+	/*background-color: pink;*/
+	float: left;
+}
+
+.bottom1 h2{
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	color: white;
+}
+
+.bottom p{
+	font-family: 'Roboto', sans-serif;
+	color: white;
+}
+
+.bottom0 .bottom2{
+	padding-top: 50px;
+	color: white;
+}
+
+.bottom0 .bottom2 a{
+	border: 2px solid black;
+	font-family: 'Roboto', sans-serif;
+	background-color: black;
+	color: white;
+	padding: 7px;
+	text-decoration: none;
+	/*margin-left: 5px;*/
+	position: absolute;
+	margin-top: 40px;
+
+}
+
+.bottom2 input {
+	width: 450px;
+	height: 50px;
+}
+
+.foot{
+	width: 100%;
+	height: 90px;
+	background-color: #191919;
+}
+
+.foot1 {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	font-size: 12px;
+	padding-top: 5px;
+}
+
+.font1{
+	font-size: 20px;
+	color: white;
+}
+
